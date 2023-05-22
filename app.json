@@ -1,0 +1,12 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "autoPairBrackets": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative",
+  "autoPairMarkdown": false,
+  "useTab": false
+}
