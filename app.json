@@ -9,6 +9,6 @@
   "newLinkFormat": "relative",
   "autoPairMarkdown": false,
   "useTab": false,
-  "defaultViewMode": "preview",
-  "livePreview": false
+  "defaultViewMode": "source",
+  "livePreview": true
 }
